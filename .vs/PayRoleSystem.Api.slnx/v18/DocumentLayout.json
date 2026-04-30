@@ -3,28 +3,108 @@
   "WorkspaceRootPath": "D:\\PayRoleSystem.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\payrolesystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:payrolesystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\controllers\\accountdetailcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:controllers\\accountdetailcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\controllers\\accountgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:controllers\\accountgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\repositories\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:repositories\\interfaces\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\models\\systemsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:models\\systemsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\applicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\uow\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:uow\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\dtos\\request\\rolepagepermissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:dtos\\request\\rolepagepermissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\interfaces\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\interfaces\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\services\\interfaces\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:services\\interfaces\\iapplicationuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\core\\aspects\\logging\\auditlogginginterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:core\\aspects\\logging\\auditlogginginterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\dtos\\request\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:dtos\\request\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PayRoleSystem.Api\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737FF23-E1C7-B386-E461-DF99F3B8470D}|PayRoleSystem.Api.csproj|solutionrelative:jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountGroupController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountDetailController .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,32 +119,291 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:13:23.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAMwKoBAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:26:53.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:00:51.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:12:44.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAkwH8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:10:03.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayRoleSystem.Api.csproj",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\PayRoleSystem.Api.csproj",
+              "RelativeDocumentMoniker": "PayRoleSystem.Api.csproj",
+              "ToolTip": "D:\\PayRoleSystem.Api\\PayRoleSystem.Api.csproj",
+              "RelativeToolTip": "PayRoleSystem.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T09:55:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Repositories\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IApplicationUserRepository.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Repositories\\Interfaces\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:03:51.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:17:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemSetting.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Models\\SystemSetting.cs",
+              "RelativeDocumentMoniker": "Models\\SystemSetting.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Models\\SystemSetting.cs",
+              "RelativeToolTip": "Models\\SystemSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:18:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UOW\\UnitOfWork.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "UOW\\UnitOfWork.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:14:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork .cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\UOW\\IUnitOfWork .cs",
+              "RelativeDocumentMoniker": "UOW\\IUnitOfWork .cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\UOW\\IUnitOfWork .cs",
+              "RelativeToolTip": "UOW\\IUnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:13:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUserService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\ApplicationUserService.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationUserService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\ApplicationUserService.cs",
+              "RelativeToolTip": "Services\\ApplicationUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:06:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\PayRoleSystem.Api\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T07:58:05.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
+              "Title": "RolePagePermissionRequest.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\DTOs\\Request\\RolePagePermissionRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Request\\RolePagePermissionRequest.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\DTOs\\Request\\RolePagePermissionRequest.cs",
+              "RelativeToolTip": "DTOs\\Request\\RolePagePermissionRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:09:22.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\MinioService.cs",
+              "RelativeDocumentMoniker": "Services\\MinioService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\MinioService.cs",
+              "RelativeToolTip": "Services\\MinioService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:09:04.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMinioService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\Interfaces\\IMinioService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IMinioService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\Interfaces\\IMinioService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IMinioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:08:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Models\\AuditLog.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:05:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationUserService.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Services\\Interfaces\\IApplicationUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IApplicationUserService.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Services\\Interfaces\\IApplicationUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IApplicationUserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:04:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\DTOs\\Request\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Request\\SearchRequest.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\DTOs\\Request\\SearchRequest.cs",
+              "RelativeToolTip": "DTOs\\Request\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:59:44.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditLoggingInterceptor.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Core\\Aspects\\Logging\\AuditLoggingInterceptor.cs",
+              "RelativeDocumentMoniker": "Core\\Aspects\\Logging\\AuditLoggingInterceptor.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Core\\Aspects\\Logging\\AuditLoggingInterceptor.cs",
+              "RelativeToolTip": "Core\\Aspects\\Logging\\AuditLoggingInterceptor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAMwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:52:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationUserController.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationUserController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIAwwGcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T08:51:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "AccountGroupController.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountGroupController.cs",
               "ToolTip": "D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs",
               "RelativeToolTip": "Controllers\\AccountGroupController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T07:56:09.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T07:56:09.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -77,33 +416,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "AccountDetailController .cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs",
               "RelativeDocumentMoniker": "Controllers\\AccountDetailController .cs",
               "ToolTip": "D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs",
               "RelativeToolTip": "Controllers\\AccountDetailController .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T07:51:57.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T07:51:57.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
               "ToolTip": "D:\\PayRoleSystem.Api\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T07:51:46.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T07:51:46.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\JwtSettings.cs",
               "RelativeDocumentMoniker": "JwtSettings.cs",

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PayRoleSystem.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:58:05.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AccountGroupController.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountGroupController.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountDetailController .cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs",
               "RelativeDocumentMoniker": "Controllers\\AccountDetailController .cs",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\PayRoleSystem.Api\\JwtSettings.cs",
               "RelativeDocumentMoniker": "JwtSettings.cs",

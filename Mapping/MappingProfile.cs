@@ -14,8 +14,8 @@ namespace PayRoleSystem.Mapping
             CreateMap<ApplicationUser, ApplicationUserResponse>();
 
             //Mapping Page
-            CreateMap<PageRequestDto, Page>();
-            CreateMap<Page, PageReponseDto>();
+            CreateMap<PagesRequest, Page>();
+            CreateMap<Page, PagesResponse>();
 
             //Mapping Role
             CreateMap<RoleRequest, Role>();

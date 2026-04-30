@@ -1,9 +1,10 @@
 ﻿using PayRoleSystem.Data;
-using PayRoleSystem.DTOs.Request;
 using PayRoleSystem.DTOs.Response;
 using PayRoleSystem.Http;
 using PayRoleSystem.Services;
 using Microsoft.AspNetCore.Mvc;
+using PayRoleSystem.DTOs.Request;
+using PayRoleSystem.Api.DTOs.Request;
 
 namespace PayRoleSystem.Controllers
 {
@@ -116,7 +117,7 @@ namespace PayRoleSystem.Controllers
             return StatusCode(response.HttpStatusCode, response);
         }
 
-         [HttpPut("ResetPassword")]
+        [HttpPut("ResetPassword")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
         {
             if (request == null)

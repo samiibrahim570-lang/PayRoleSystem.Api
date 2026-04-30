@@ -11,12 +11,15 @@ using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using System.Security.Claims;
+using PayRoleSystem.Api.DTOs.Request;
+using PayRoleSystem.Api.Services.Interfaces;
 
 public class ApplicationUserService : IApplicationUserService
 {
     private readonly IUnitOfWork _unitOfWork; 
     private readonly IMapper _mapper;
     private readonly IEmailService _emailService;
+    private readonly IMinioService _minioService;
     private readonly ApplicationDbContext _context;
     private readonly IMinioService _minioService;
     private readonly IHttpContextAccessor _httpContextAccessor;
@@ -397,8 +400,8 @@ public class ApplicationUserService : IApplicationUserService
                 Errors = new List<string> { ex.Message }
             };
         }
+        }
     }
-
     //Forgot Password
     public async Task<ResponseModel<string>> ForgotPasswordAsync(ForgotPasswordRequestDto request)
     {
