@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PayRoleSystem.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\controllers\\accountdetailcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:controllers\\accountdetailcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\controllers\\accountgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:controllers\\accountgroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|d:\\payrolesystem.api\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1630B462-09DF-4F05-9419-5809CDF6D8A4}|PayRoleSystem.Api.csproj|solutionrelative:jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountGroupController.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountGroupController.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Controllers\\AccountGroupController.cs",
+              "RelativeToolTip": "Controllers\\AccountGroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:56:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PayRoleSystem.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T07:55:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountDetailController .cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountDetailController .cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\Controllers\\AccountDetailController .cs",
+              "RelativeToolTip": "Controllers\\AccountDetailController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:51:57.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:51:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\PayRoleSystem.Api\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "JwtSettings.cs",
+              "ToolTip": "D:\\PayRoleSystem.Api\\JwtSettings.cs",
+              "RelativeToolTip": "JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T07:51:43.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

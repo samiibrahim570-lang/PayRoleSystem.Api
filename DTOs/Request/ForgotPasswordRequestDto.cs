@@ -1,0 +1,10 @@
+﻿namespace PayRoleSystem.DTOs.Request
+{
+    public class ForgotPasswordRequestDto
+    {
+        public string? Email { get; set; }
+        public string? ContactNumber { get; set; }
+        public string? NewPassword { get; set; }
+        public string? ConfirmPassword { get; set; }
+    }
+}
