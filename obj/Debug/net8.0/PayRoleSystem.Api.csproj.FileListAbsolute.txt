@@ -166,3 +166,4 @@ D:\PayRoleSystem.Api\obj\Debug\net8.0\refint\PayRoleSystem.Api.dll
 D:\PayRoleSystem.Api\obj\Debug\net8.0\PayRoleSystem.Api.pdb
 D:\PayRoleSystem.Api\obj\Debug\net8.0\PayRoleSystem.Api.genruntimeconfig.cache
 D:\PayRoleSystem.Api\obj\Debug\net8.0\ref\PayRoleSystem.Api.dll
+D:\PayRoleSystem.Api\obj\Debug\net8.0\PayRoleSystem.Api.sourcelink.json
